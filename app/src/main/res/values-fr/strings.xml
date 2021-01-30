@@ -1,0 +1,41 @@
+<resources>
+    <string name="isi">
+        Situé au km1 avenue cheikh Anta Diop, l\'institut supérieur d\'informatique ISI, est sous la tutelle du Ministère de l\'Enseignement Supérieur privé qui est signataire de tous les diplomes délivrés, sous le controle de l\'ANAQ-Sup.
+L\'ISI, contribue depuis plus de 27 ans a la formation des jeunes cadres africains.
+Avec l\'ambition du PDG, de participer a la diversification de l\'offre de formation au Sénégal et dans la sous-région, l\'ISI a su se développer au fil des ans, comptant ainsi en son sein 09 campus, ou se cotoient plus de trente nationalités, qui constituent la belle famille isienne.
+Le groupe dispose des experts de très haut niveau universitaire et spécialistes dans plusieurs domaines de l\'Informatique et de la gestion.
+Grace a son expertise et la qualité de ses services, Le Groupe ISI délivre des diplomes de Licence et Master reconnus a la fois par le monde de l\'entreprise et par les instances d\'accréditation nationales « ANAQ SUP »et panafricaines « CAMES ».
+Avec une offre de formation diversifiée dans les métiers d\'avenir, une innovation permanente de ses programmes, et les brillants résultats obtenus aux différents examens et concours, L\'Institut Supérieur d\'informatique  » ISI » est leader dans son domaine au Sénégal et dans la sous-région.
+    </string>
+    <string name="presentation">Présentation</string>
+    <string name="formation">Formation</string>
+    <string name="university">Université</string>
+    <string name="marks">Notes</string>
+    <string name="help">Aide</string>
+    <string name="cancel">Cancel</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">0 Level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="save">Save</string>
+    <string name="error_fields">Required fields</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_parametters">Error parameters</string>
+    <string name="welcome">Welcome</string>
+    <string name="wait">Please wait</string>
+    <string name="success_inscription">Inscription success</string>
+    <string name="error_inscription">Inscription error</string>
+    <string name="logout">Logout</string>
+
+
+
+    <string name="app_name">My School</string>
+    <string name="connection">Connexion</string>
+    <string name="login">Identifiant</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="sign_up">S\'inscrire</string>
+</resources>
