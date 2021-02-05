@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_formation">
+        <item>DITI</item>
+        <item>GL</item>
+        <item>RT</item>
+        <item>RI</item>
+        <item>IAGE</item>
+        <item>GDA</item>
+    </string-array>
+
+    <string-array name="tab_details">
+        <item>Java, C#, Linux, UML, Xml, Android, Oracle, Network. Dev Mobile, Dev Backend, Full Stack, DBA, Admin Sys, Admin Network, DevOps</item>
+        <item>Java, C#, Linux, UML, Xml, Android, Oracle, MySql. Dev Mobile, Dev Backend, Full Stack, DBA, DevOps, Analyst Dev</item>
+        <item>Network Telecom,  Android, Oracle, MySql. Manager project telecom</item>
+        <item>Internet Network, Linux, UML, Xml, Oracle, MySql. Manager project network, Dev Backend</item>
+        <item>Java, C#, Android, Oracle. projects Manager</item>
+        <item>GDA</item>
+    </string-array>
+
+</resources>

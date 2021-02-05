@@ -10,26 +10,26 @@ Avec une offre de formation diversifiée dans les métiers d\'avenir, une innova
     </string>
     <string name="presentation">Presentation</string>
     <string name="formation">Formation</string>
-    <string name="university">Université</string>
-    <string name="marks">Notes</string>
-    <string name="help">Aide</string>
-    <string name="cancel">Annuler</string>
+    <string name="university">University</string>
+    <string name="marks">Marks</string>
+    <string name="help">Help</string>
+    <string name="cancel">Cancel</string>
     <string name="inscription">Inscription</string>
-    <string name="first_name">Prénom</string>
-    <string name="last_name">Nom</string>
-    <string name="degrees">Diplômes</string>
-    <string name="o_level">BAac</string>
-    <string name="bachelor">Licence</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">0 Level</string>
+    <string name="bachelor">Bachelor</string>
     <string name="master">Master</string>
-    <string name="save">Enregistrer</string>
-    <string name="error_fields">Champs obligatoires</string>
-    <string name="error_connection">Erreur de connexion</string>
-    <string name="error_parametters">Paramètres incorrects</string>
-    <string name="welcome">Bienvenue</string>
-    <string name="wait">Patienter SVP</string>
-    <string name="success_inscription">Inscription réussie</string>
+    <string name="save">Save</string>
+    <string name="error_fields">Required fields</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_parametters">Error parameters</string>
+    <string name="welcome">Welcome</string>
+    <string name="wait">Please wait</string>
+    <string name="success_inscription">Inscription success</string>
     <string name="error_inscription">Inscription error</string>
-    <string name="logout">Déconnexion</string>
+    <string name="logout">Logout</string>
 
 
 
@@ -51,4 +51,6 @@ Avec une offre de formation diversifiée dans les métiers d\'avenir, une innova
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
