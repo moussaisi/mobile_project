@@ -16,7 +16,8 @@ import android.widget.ListView;
 public class FormationFragment extends Fragment {
     private ListView listFormation;
     private String [] tabFormation,tabDetails;
-    private String  formation,details;
+    private String  details;
+    public static String  formation;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
