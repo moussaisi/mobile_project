@@ -67,6 +67,7 @@ public class InscriptionFragment extends Fragment {
 
     public void inscriptionServer(){
         String url = "http://192.168.43.123:8081/diti5/inscription.php";
+        //String url = "http://3iweb.org/diti5/inscription.php";
         OkHttpClient client = new OkHttpClient();
         RequestBody body = new FormBody.Builder()
                 .add("first_name",firstName)

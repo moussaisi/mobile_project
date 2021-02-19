@@ -24,7 +24,8 @@ import okhttp3.Response;
 public class MainActivity extends AppCompatActivity {
     private EditText txtLogin,txtPassword;
     private Button btnConnect,btnSignUp;
-    private String login,password;
+    private String password;
+    public static String login;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -63,8 +64,8 @@ public class MainActivity extends AppCompatActivity {
 
     //Communication entre la page login et le service connexion
     public void loginServer(){
-        //String url = "http://192.168.43.123:8081/diti5/connexion.php?login="+login+"&password="+password;
-        String url = "http://3iweb.org/diti5/connexion.php?login="+login+"&password="+password;
+        String url = "http://192.168.43.123:8081/diti5/connexion.php?login="+login+"&password="+password;
+        //String url = "http://3iweb.org/diti5/connexion.php?login="+login+"&password="+password;
         OkHttpClient client = new OkHttpClient();//Création du client
         Request request = new Request.Builder()//Creation de la requete
             .url(url)
@@ -105,11 +106,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
-
-
-
-
-
-
 }

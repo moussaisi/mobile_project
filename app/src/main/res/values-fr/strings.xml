@@ -29,8 +29,7 @@ Avec une offre de formation diversifiée dans les métiers d\'avenir, une innova
     <string name="success_inscription">Inscription réussie</string>
     <string name="error_inscription">Inscription error</string>
     <string name="logout">Déconnexion</string>
-
-
+    <string name="titleMarks">Afficher les notes</string>
 
     <string name="app_name">Mon école</string>
     <string name="connection">Connexion</string>
